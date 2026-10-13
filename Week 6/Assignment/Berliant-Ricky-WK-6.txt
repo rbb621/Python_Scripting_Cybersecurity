@@ -1,0 +1,80 @@
+7942-INFO-2026-10-01 12:20:29,622 Script Start
+
+7942-INFO-2026-10-01 12:20:37,913 Investigator: Ricky Berliant
+7942-INFO-2026-10-01 12:20:37,913 Organization: CYBV 312
+7942-INFO-2026-10-01 12:20:37,913 Purpose     : Week #6 CYBV 312 Assignment
+7942-INFO-2026-10-01 12:20:37,913 ========================================
+
+7942-INFO-2026-10-01 12:20:37,913 ***** System Information *****
+7942-INFO-2026-10-01 12:20:37,913 	platform: Darwin
+7942-INFO-2026-10-01 12:20:37,913 	platform-release: 25.6.0
+7942-INFO-2026-10-01 12:20:37,913 	platform-version: Darwin Kernel Version 25.6.0: Fri Jul 31 19:18:48 PDT 2026; root:xnu-12377.161.14~5/RELEASE_ARM64_T6020
+7942-INFO-2026-10-01 12:20:37,913 	architecture: arm64
+7942-INFO-2026-10-01 12:20:37,913 	hostname: MacBook-Pro-3.local
+7942-INFO-2026-10-01 12:20:37,913 	ip-address: 127.0.0.1
+7942-INFO-2026-10-01 12:20:37,913 	mac-address: 4e:8f:00:a2:fc:45
+7942-INFO-2026-10-01 12:20:37,913 	processor: arm
+7942-INFO-2026-10-01 12:20:37,913 	ram: 16 GB
+7942-INFO-2026-10-01 12:20:37,913 ========================================
+
+7942-INFO-2026-10-01 12:20:45,839 User Specified Directory: /Users/rickyberliant/Documents/Fall 2026/CYBV 312/Week 6/Assignment
+7942-INFO-2026-10-01 12:20:45,842 File Processed:
+7942-INFO-2026-10-01 12:20:45,842 	Path: /Users/rickyberliant/Documents/Fall 2026/CYBV 312/Week 6/Assignment/Berliant-Ricky-WK-6.py
+7942-INFO-2026-10-01 12:20:45,842 	File Size: 4787
+7942-INFO-2026-10-01 12:20:45,843 	Last-Modified: 2026-10-01 12:19:20
+7942-INFO-2026-10-01 12:20:45,843 	Last-Accessed: 2026-10-01 12:19:26
+7942-INFO-2026-10-01 12:20:45,843 	Created: 2026-10-01 12:19:24
+7942-INFO-2026-10-01 12:20:45,843 	SHA-256: f2441c2421e48f0308d0d2245020fa9e3014f11ffb4f2b99e1c522aad871a26e
+7942-INFO-2026-10-01 12:20:45,843 ======================================================================
+
+7942-INFO-2026-10-01 12:20:45,844 File Processed:
+7942-INFO-2026-10-01 12:20:45,844 	Path: /Users/rickyberliant/Documents/Fall 2026/CYBV 312/Week 6/Assignment/.DS_Store
+7942-INFO-2026-10-01 12:20:45,844 	File Size: 6148
+7942-INFO-2026-10-01 12:20:45,844 	Last-Modified: 2026-09-30 13:51:17
+7942-INFO-2026-10-01 12:20:45,844 	Last-Accessed: 2026-09-30 22:28:48
+7942-INFO-2026-10-01 12:20:45,844 	Created: 2026-09-30 13:51:17
+7942-INFO-2026-10-01 12:20:45,844 	SHA-256: ff1a8dfa6dfb21fe4fb5231e26714f54c097da10d02120774d8b745e7c044787
+7942-INFO-2026-10-01 12:20:45,844 ======================================================================
+
+7942-INFO-2026-10-01 12:20:45,844 File Processed:
+7942-INFO-2026-10-01 12:20:45,844 	Path: /Users/rickyberliant/Documents/Fall 2026/CYBV 312/Week 6/Assignment/requirements.txt
+7942-INFO-2026-10-01 12:20:45,844 	File Size: 36
+7942-INFO-2026-10-01 12:20:45,844 	Last-Modified: 2026-09-29 13:26:27
+7942-INFO-2026-10-01 12:20:45,844 	Last-Accessed: 2026-09-30 22:46:49
+7942-INFO-2026-10-01 12:20:45,844 	Created: 2026-09-30 22:46:47
+7942-INFO-2026-10-01 12:20:45,844 	SHA-256: fa36188ef18ede9c219e2899e0151b42246cbc0cd8ea7a015697cf5487c19fa7
+7942-INFO-2026-10-01 12:20:45,844 ======================================================================
+
+7942-INFO-2026-10-01 12:20:45,845 File Processed:
+7942-INFO-2026-10-01 12:20:45,845 	Path: /Users/rickyberliant/Documents/Fall 2026/CYBV 312/Week 6/Assignment/WK-6-STARTER.py
+7942-INFO-2026-10-01 12:20:45,845 	File Size: 2075
+7942-INFO-2026-10-01 12:20:45,845 	Last-Modified: 2026-09-29 22:57:56
+7942-INFO-2026-10-01 12:20:45,845 	Last-Accessed: 2026-10-01 10:12:02
+7942-INFO-2026-10-01 12:20:45,845 	Created: 2026-09-30 22:47:54
+7942-INFO-2026-10-01 12:20:45,845 	SHA-256: 473a55efa3636bfcc6b8fe13e3f2cdb22e3c291ddd09f87719e454ab97d43c99
+7942-INFO-2026-10-01 12:20:45,845 ======================================================================
+
+7942-INFO-2026-10-01 12:20:45,845 File Processed:
+7942-INFO-2026-10-01 12:20:45,845 	Path: /Users/rickyberliant/Documents/Fall 2026/CYBV 312/Week 6/Assignment/Berliant-Ricky-WK-6.txt
+7942-INFO-2026-10-01 12:20:45,845 	File Size: 3777
+7942-INFO-2026-10-01 12:20:45,845 	Last-Modified: 2026-10-01 12:20:45
+7942-INFO-2026-10-01 12:20:45,845 	Last-Accessed: 2026-10-01 12:20:37
+7942-INFO-2026-10-01 12:20:45,845 	Created: 2026-10-01 12:20:45
+7942-INFO-2026-10-01 12:20:45,845 	SHA-256: ec292873b2835b1036b46b4042e7918aa19fb07b2263e05214ba383f5724fa95
+7942-INFO-2026-10-01 12:20:45,845 ======================================================================
+
+7942-INFO-2026-10-01 12:20:45,846 File Processed:
+7942-INFO-2026-10-01 12:20:45,846 	Path: /Users/rickyberliant/Documents/Fall 2026/CYBV 312/Week 6/Assignment/ScriptLog.txt
+7942-INFO-2026-10-01 12:20:45,846 	File Size: 15328
+7942-INFO-2026-10-01 12:20:45,846 	Last-Modified: 2026-09-29 22:39:02
+7942-INFO-2026-10-01 12:20:45,846 	Last-Accessed: 2026-09-30 23:49:26
+7942-INFO-2026-10-01 12:20:45,846 	Created: 2026-09-30 23:49:25
+7942-INFO-2026-10-01 12:20:45,846 	SHA-256: ba76c289740501e9152b0d604461b67d4f1b7b0691ad7b16f9e3481e2303a6f5
+7942-INFO-2026-10-01 12:20:45,846 ======================================================================
+
+7942-INFO-2026-10-01 12:20:45,846 ========================================
+
+7942-INFO-2026-10-01 12:20:45,846 Files Processed:       6
+7942-INFO-2026-10-01 12:20:45,846 Elapsed Time hh:mm:ss: 0:00:00 
+
+7942-INFO-2026-10-01 12:20:45,847 Status: Script Ended 

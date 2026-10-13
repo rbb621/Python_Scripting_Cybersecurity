@@ -1,0 +1,3 @@
+# CYBR312 Week 7
+Pillow
+prettytable

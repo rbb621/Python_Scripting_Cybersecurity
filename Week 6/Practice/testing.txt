@@ -1,0 +1,10 @@
+91379-INFO-2026-09-29 22:34:23,663 We successfully read the file
+91379-INFO-2026-09-29 22:34:23,664 Script Started
+91379-WARNING-2026-09-29 22:34:23,664 Sample Warning Message  
+91379-ERROR-2026-09-29 22:34:23,664 Sample Error Message    
+91379-CRITICAL-2026-09-29 22:34:23,664 Sample Critical Message 
+91592-INFO-2026-09-29 22:36:47,232 We successfully read the file
+91592-INFO-2026-09-29 22:36:47,233 Script Started
+91592-WARNING-2026-09-29 22:36:47,233 Osmanthis Wine tastes the same  
+91592-ERROR-2026-09-29 22:36:47,233 Lonely Lonely Lost Soul    
+91592-CRITICAL-2026-09-29 22:36:47,233 Sample Critical Message 

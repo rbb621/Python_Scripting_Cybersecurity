@@ -1,0 +1,111 @@
+For this assignment you will be using your preferred Integrated Development Environment and the Python Shell.
+
+Name: Ricky Berliant
+Date: 8/30/2026
+Instructor: Cameron Covington
+Class: CYBR 312
+Assignment: Week 1 Scripting
+
+
+
+Step 1: 
+
+Execute the following statement (copy and paste into the WingIDE Python Shell) then press enter.
+
+Python Shell:
+
+>>> textStr = '''Between ten and eleven o’clock that morning two messengers were sent in
+a taxicab from the East River National Bank, at Broadway and Third
+street, to draw $25,000 in currency from the Produce Exchange National
+Bank, at Broadway and Beaver street, in the downtown financial district,
+and bring it uptown. This transfer of money had been made several times
+a week for so long a period without danger or loss that the messengers
+were unarmed. One of them, Wilbur F. Smith, was an old man who had been
+in the service of the bank thirty-five years, and the other was a mere
+boy, named Wardle, seventeen years old. The taxicab man, an Italian
+named Geno Montani, seemed almost a trusted employee, too, for he
+operated two cabs from a stand near the bank, and was frequently called
+upon for such trips.'''
+
+Output:
+
+Between ten and eleven o’clock that morning two messengers were sent in
+a taxicab from the East River National Bank, at Broadway and Third
+street, to draw $25,000 in currency from the Produce Exchange National
+Bank, at Broadway and Beaver street, in the downtown financial district,
+and bring it uptown. This transfer of money had been made several times
+a week for so long a period without danger or loss that the messengers
+were unarmed. One of them, Wilbur F. Smith, was an old man who had been
+in the service of the bank thirty-five years, and the other was a mere
+boy, named Wardle, seventeen years old. The taxicab man, an Italian
+named Geno Montani, seemed almost a trusted employee, too, for he
+operated two cabs from a stand near the bank, and was frequently called
+upon for such trips.
+
+Step 2:
+
+Using the Python shell within WingIDE determine the following characteristics that are associated with variable textStr:
+
+1) What is the type of the variable/object is textStr? 
+textStr is a string data type. As long as there are any text, numbers, 
+special characters inside the quotes will always be considered to be a string
+
+Python Shell:
+>>> type(textStr)
+
+Output: <class 'str'>
+
+
+2) What is the length of the textStr?
+Python Shell:
+>>> len(textStr) 
+
+Output: 797
+
+
+3) Create a list of wordsFound in textStr. (hint: use the method .split() )
+
+>>> wordsFound = textStr.split()
+>>> wordsFound
+
+Output:
+
+['Between', 'ten', 'and', 'eleven', 'o’clock', 'that', 'morning', 'two', 'messengers', 'were', 'sent', 'in', 'a', 'taxicab', 'from', 'the', 'East', 'River', 'National', 'Bank,', 'at', 'Broadway', 'and', 'Third', 'street,', 'to', 'draw', '$25,000', 'in', 'currency', 'from', 'the', 'Produce', 'Exchange', 'National', 'Bank,', 'at', 'Broadway', 'and', 'Beaver', 'street,', 'in', 'the','downtown', 'financial', 'district,', 'and', 'bring', 'it', 'uptown.', 'This', 'transfer', 'of', 'money', 'had', 'been', 'made', 'several', 'times', 'a', 'week', 'for', 'so', 'long', 'a', 'period', 'without', 'danger', 'or', 'loss', 'that', 'the', 'messengers', 'were', 'unarmed.', 'One', 'of', 'them,', 'Wilbur', 'F.', 'Smith,', 'was', 'an', 'old', 'man', 'who', 'had', 'been', 'in', 'the', 'service', 'of', 'the', 'bank', 'thirty-five', 'years,', 'and', 'the', 'other', 'was', 'a', 'mere', 'boy,', 'named', 'Wardle,', 'seventeen', 'years', 'old.', 'The', 'taxicab', 'man,','an', 'Italian', 'named', 'Geno', 'Montani,', 'seemed', 'almost', 'a', 'trusted', 'employee,', 'too,', 'for', 'he', 'operated', 'two', 'cabs', 'from', 'a', 'stand', 'near', 'the', 'bank,', 'and', 'was', 'frequently', 'called', 'upon', 'for', 'such', 'trips.']
+
+
+
+4) Sort the wordsFound list.
+
+>>> wordsFound.sort()
+>>> wordsFound
+
+Output:
+
+['$25,000', 'Bank,', 'Bank,', 'Beaver', 'Between', 'Broadway', 'Broadway', 'East', 'Exchange', 'F.', 'Geno', 'Italian', 'Montani,', 'National', 'National', 'One', 'Produce', 'River', 'Smith,', 'The', 'Third', 'This', 'Wardle,', 'Wilbur', 'a', 'a', 'a', 'a', 'a', 'a', 'almost', 'an', 'an', 'and', 'and', 'and', 'and', 'and', 'and', 'at', 'at', 'bank', 'bank,', 'been', 'been', 'boy,', 'bring', 'cabs', 'called', 'currency', 'danger', 'district,', 'downtown', 'draw', 'eleven', 'employee,', 'financial', 'for', 'for', 'for', 'frequently', 'from', 'from', 'from', 'had', 'had', 'he', 'in', 'in', 'in', 'in', 'it', 'long', 'loss', 'made', 'man', 'man,', 'mere', 'messengers', 'messengers', 'money', 'morning', 'named', 'named', 'near', 'of', 'of', 'of', 'old', 'old.', 'operated', 'or', 'other', 'o’clock', 'period', 'seemed', 'sent', 'service', 'seventeen', 'several', 'so', 'stand', 'street,', 'street,', 'such', 'taxicab', 'taxicab', 'ten', 'that', 'that', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'the', 'them,', 'thirty-five', 'times', 'to', 'too,', 'transfer', 'trips.', 'trusted', 'two', 'two', 'unarmed.', 'upon', 'uptown.', 'was', 'was', 'was', 'week', 'were', 'were', 'who', 'without', 'years', 'years,']
+
+
+5) How many individual words (i.e., strings) were created?
+>>> countWords = 0
+>>> for words in wordsFound:
+	countWords += 1
+
+>>> countWords
+
+Output: 141
+
+
+6) How many words in the wordsFound list are in Title case? (hint: use the method .istitle() )
+
+>>> countTitleCaseWords = 0
+>>> for word in wordsFound:
+	if word.istitle():
+		countTitleCaseWords += 1
+>>> countTitleCaseWords
+
+Output: 23
+
+Once completed Copy and Paste your results from your WingIDE Session into a 
+text file with the naming convention: LastName-Firstname-WK1.txt
+
+
+
